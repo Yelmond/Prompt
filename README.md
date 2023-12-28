@@ -1,0 +1,2 @@
+# Prompt
+Attempt at automation.
